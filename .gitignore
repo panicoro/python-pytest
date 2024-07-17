@@ -162,4 +162,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# No pdf files
 *.pdf
+# No code for the book
+bopytest2-code/
